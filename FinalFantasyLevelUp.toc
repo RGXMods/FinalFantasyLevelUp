@@ -1,8 +1,10 @@
 ﻿## Interface: 11509,20506,50504,120007
-## Version: 3.0.2
+## Version: 3.0.3
 ## Title:  |cffffe568F|r|cffffffffinal|r |cffffe568F|r|cffffffffantasy|r |cffffe568L|r|cffffffffevel|r |cffffe568U|r|cffffffffp|r|cffffe568!|r
 ## Notes:  Play the iconic Final Fantasy level-up sound!  |n|r  |cffffe568/fflu -|r Open help  |n|r   |cffffe568By DonnieDice|r
 ## Author: DonnieDice
+## Category: RGX
+## Group: RGX
 ## Email: donniedice@protonmail.com
 ## IconTexture: Interface\AddOns\FinalFantasyLevelUp\media\icon
 ## SavedVariables: FFLUSettings
