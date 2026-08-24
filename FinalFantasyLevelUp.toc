@@ -12,7 +12,7 @@
 ## RequiredDeps: RGX-Framework
 
 ## X-Category: UI Media, Questing & Leveling, Audio & Video, Miscellaneous
-## X-Website: https://github.com/donniedice/FinalFantasyLevelUp
+## X-Website: https://github.com/RGXMods/FinalFantasyLevelUp
 ## X-Curse-Project-ID: 305470
 ## X-Wago-ID: Xb6XE0Kp
 ## X-WoWI-ID: 26252
