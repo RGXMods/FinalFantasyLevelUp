@@ -15,7 +15,6 @@
 ## X-Website: https://github.com/RGXMods/FinalFantasyLevelUp
 ## X-Curse-Project-ID: 305470
 ## X-Wago-ID: Xb6XE0Kp
-## X-WoWI-ID: 26252
 ## X-Embeds: 
 ## X-License: MIT
 ## X-Localizations: enUS, deDE, frFR, esES, ruRU
