@@ -13,31 +13,31 @@
 
 ### <span style="color:#ffe568">🎵 </span> <span style="color:#e67e23">*"Victory Fanfare!" — Now in World of Warcraft!*</span> <span style="color:#ffe568">🎵</span>
 
-**<span style="color:#ffe568">F</span><span style="color:#ffe568">F</span><span style="color:#ffe568">L</span><span style="color:#ffe568">U</span> <span style="color:#e67e23">is a professional</span> <span style="color:#06c">World of Warcraft</span> <span style="color:#e67e23">addon that transforms your leveling experience with the iconic Final Fantasy level-up sound — across all WoW versions.</span>**
+**<span style="color:#ffe568">F</span><span style="color:#ffe568">F</span><span style="color:#ffe568">L</span><span style="color:#ffe568">U</span> <span style="color:#e67e23">is a professional</span> <span style="color:#06c">World of Warcraft</span> <span style="color:#e67e23">addon that transforms your leveling experience with the iconic Final Fantasy level-up sound — across supported WoW versions.</span>**
 
 **<img src="media/logo.png" width="18" height="18" alt="FFLU logo"> <span style="color:#e67e23">Connect with fellow gamers, get support, and be part of the</span> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Mods</span> <span style="color:#e67e23">family!</span>**
 
 ---
 
 <!-- GitHub Stats & Badges -->
-[![GitHub release](https://img.shields.io/github/v/release/DonnieDice/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=success)](https://github.com/RGXMods/FinalFantasyLevelUp/releases)
-[![GitHub stars](https://img.shields.io/github/stars/DonnieDice/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=yellow)](https://github.com/RGXMods/FinalFantasyLevelUp/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/DonnieDice/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=blue)](https://github.com/RGXMods/FinalFantasyLevelUp/network/members)
-[![GitHub issues](https://img.shields.io/github/issues/DonnieDice/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=red)](https://github.com/RGXMods/FinalFantasyLevelUp/issues)
-[![GitHub license](https://img.shields.io/github/license/DonnieDice/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=lightgrey)](https://github.com/RGXMods/FinalFantasyLevelUp/blob/main/LICENSE)
+[![GitHub release](https://img.shields.io/github/v/release/RGXMods/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=success)](https://github.com/RGXMods/FinalFantasyLevelUp/releases)
+[![GitHub stars](https://img.shields.io/github/stars/RGXMods/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=yellow)](https://github.com/RGXMods/FinalFantasyLevelUp/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/RGXMods/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=blue)](https://github.com/RGXMods/FinalFantasyLevelUp/network/members)
+[![GitHub issues](https://img.shields.io/github/issues/RGXMods/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=red)](https://github.com/RGXMods/FinalFantasyLevelUp/issues)
+[![GitHub license](https://img.shields.io/github/license/RGXMods/FinalFantasyLevelUp?style=for-the-badge&logo=github&color=lightgrey)](LICENSE)
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/DonnieDice/FinalFantasyLevelUp?style=flat-square&logo=github)](https://github.com/RGXMods/FinalFantasyLevelUp/commits/main)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/DonnieDice/FinalFantasyLevelUp?style=flat-square&logo=github)](https://github.com/RGXMods/FinalFantasyLevelUp/graphs/contributors)
-[![GitHub repo size](https://img.shields.io/github/repo-size/DonnieDice/FinalFantasyLevelUp?style=flat-square&logo=github)](https://github.com/RGXMods/FinalFantasyLevelUp)
+[![GitHub last commit](https://img.shields.io/github/last-commit/RGXMods/FinalFantasyLevelUp?style=flat-square&logo=github)](https://github.com/RGXMods/FinalFantasyLevelUp/commits/main)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/RGXMods/FinalFantasyLevelUp?style=flat-square&logo=github)](https://github.com/RGXMods/FinalFantasyLevelUp/graphs/contributors)
+[![GitHub repo size](https://img.shields.io/github/repo-size/RGXMods/FinalFantasyLevelUp?style=flat-square&logo=github)](https://github.com/RGXMods/FinalFantasyLevelUp)
 
 <!-- Platform Badges -->
 [![CurseForge](https://img.shields.io/badge/CurseForge-Downloads-orange?style=flat-square&logo=curseforge)](https://www.curseforge.com/wow/addons/fflu)
 [![Wago](https://img.shields.io/badge/Wago.io-Downloads-purple?style=flat-square&logo=wago)](https://addons.wago.io/addons/fflu)
 
 <!-- WoW Compatibility -->
-[![WoW Retail](https://img.shields.io/badge/WoW-The%20War%20Within-ffe568?style=flat-square&logo=worldofwarcraft)](https://worldofwarcraft.com)
+[![WoW Retail](https://img.shields.io/badge/WoW-Midnight-ffe568?style=flat-square&logo=worldofwarcraft)](https://worldofwarcraft.com)
 [![WoW Classic](https://img.shields.io/badge/WoW-Classic%20Era-ffe568?style=flat-square&logo=worldofwarcraft)](https://worldofwarcraft.com)
-[![WoW Cataclysm](https://img.shields.io/badge/WoW-Cataclysm%20Classic-ffe568?style=flat-square&logo=worldofwarcraft)](https://worldofwarcraft.com)
+[![WoW TBC](https://img.shields.io/badge/WoW-Burning%20Crusade%20Classic-ffe568?style=flat-square&logo=worldofwarcraft)](https://worldofwarcraft.com)
 [![WoW Mists](https://img.shields.io/badge/WoW-Mists%20of%20Pandaria-ffe568?style=flat-square&logo=worldofwarcraft)](https://worldofwarcraft.com)
 
 [Features](#features) • [Quick Start](#quick-start) • [Commands](#command-reference) • [Compatibility](#compatibility) • [Installation](#installation) • [Support](#support)
@@ -100,7 +100,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 - **<img src="media/logo.png" width="16" height="16" alt="FFLU logo"> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Quality</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Built by the</span> <span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#e67e23">community with passion</span>
 - **<span style="color:#ffe568">🌍 Multi-Language:</span>** <span style="color:#e67e23">Supports English, Russian, German, French, and Spanish</span>
 - **<span style="color:#b96ad9">🛠️ Professional Standards:</span>** <span style="color:#e67e23">Modern WoW addon architecture</span>
-- **<span style="color:#4ecdc4">🎯 Cross-Compatible:</span>** <span style="color:#e67e23">Works across all WoW versions</span>
+- **<span style="color:#4ecdc4">🎯 Cross-Compatible:</span>** <span style="color:#e67e23">Works across supported WoW versions</span>
 - **<span style="color:#ff6b6b">💬 Active Support:</span>** <span style="color:#e67e23">Join our Discord for instant help!</span>
 
 ---
@@ -145,11 +145,9 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 <td width="50%" valign="top">
 
 ## <span style="color:#4ecdc4">🎮 WoW Compatibility</span>
-- **<span style="color:#2dc26b">The War Within</span>** (Retail)
+- **<span style="color:#2dc26b">Midnight</span>** (Retail)
 - **<span style="color:#ffe568">Classic Era</span>**
-- **<span style="color:#58be81">Cataclysm Classic</span>**
 - **<span style="color:#b96ad9">Mists of Pandaria</span>**
-- **<span style="color:#ff6b6b">Wrath Classic</span>**
 - **<span style="color:#4ecdc4">Burning Crusade Classic</span>**
 
 </td>
@@ -199,14 +197,14 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 | WoW Version | Interface | Status | TOC File |
 |-------------|-----------|--------|----------|
-| **The War Within (Retail)** | `110105` | ✅ Fully Supported | `FFLU.toc` |
-| **Mists of Pandaria Classic** | `50500` | ✅ Fully Supported | `FFLU_Mists.toc` |
-| **Cataclysm Classic** | `40402` | ✅ Fully Supported | `FFLU_Cata.toc` |
-| **Wrath of the Lich King Classic** | `30403` | ✅ Fully Supported | `FFLU_Wrath.toc` |
-| **Burning Crusade Classic** | `20504` | ✅ Fully Supported | `FFLU_BCC.toc` |
-| **Classic Era** | `11507` | ✅ Fully Supported | `FFLU_Vanilla.toc` |
+| **Midnight (Retail)** | `120007` | ✅ Fully Supported | `FinalFantasyLevelUp.toc` |
+| **Mists of Pandaria Classic** | `50504` | ✅ Fully Supported | `FinalFantasyLevelUp.toc` |
+| **Burning Crusade Classic** | `20506` | ✅ Fully Supported | `FinalFantasyLevelUp.toc` |
+| **Classic Era** | `11509` | ✅ Fully Supported | `FinalFantasyLevelUp.toc` |
 
 </div>
+
+**<span style="color:#ff6b6b">Required Dependency:</span>** <span style="color:#e67e23">[RGX-Framework](https://github.com/RGXMods/RGX-Framework) must be installed and enabled.</span>
 
 ---
 
@@ -316,7 +314,7 @@ volume = "Master"        -- Volume channel
 
 ## <span style="color:#ffe568">📄 License</span>
 
-<span style="color:#e67e23">This project is licensed under the</span> [<span style="color:#2dc26b">MIT License</span>](https://github.com/RGXMods/FinalFantasyLevelUp/blob/main/LICENSE)<span style="color:#e67e23">.</span>
+<span style="color:#e67e23">This project is licensed under the</span> [<span style="color:#2dc26b">MIT License</span>](LICENSE)<span style="color:#e67e23">.</span>
 
 ---
 
