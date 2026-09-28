@@ -1,6 +1,6 @@
 # FinalFantasyLevelUp
 
-FinalFantasyLevelUp is a standalone WoW addon that plays a Final Fantasy sound on `PLAYER_LEVEL_UP`. It is not a Better Level-Up sound pack. The single `FinalFantasyLevelUp.toc` supports Classic Era (`11509`), Burning Crusade Classic (`20506`), Mists of Pandaria Classic (`50504`), and Retail (`120007`), and requires `RGX-Framework`.
+FinalFantasyLevelUp is a standalone WoW addon that plays a Final Fantasy sound on `PLAYER_LEVEL_UP`. It is not a Better Level-Up sound pack. The TOC set covers Retail (`120100`), Classic Era (`11509`), Burning Crusade Classic (`20506`), Wrath of the Lich King Classic (`38002`), Cataclysm Classic (`40402`), Mists of Pandaria Classic (`50504`), and WoW Forever (`16001`), and requires `RGX-Framework`.
 
 ## Layout And Runtime
 
