@@ -1,4 +1,11 @@
-﻿# v3.0.3 - 2026-08-07
+﻿# v3.0.5 - 2026-09-27
+
+## Changes
+- TOC set now covers every active WoW flavor: Retail 120100, Classic Era 11509, TBC 20506, Wrath 38002, Cataclysm 40402, Mists 50504, and WoW Forever 16001. The base TOC claims 120100,16001 so the Forever beta loads without the out-of-date flag.
+- Added missing flavor TOCs: FinalFantasyLevelUp_Vanilla.toc, FinalFantasyLevelUp_TBC.toc, FinalFantasyLevelUp_Wrath.toc, FinalFantasyLevelUp_Cata.toc, FinalFantasyLevelUp_Mists.toc, FinalFantasyLevelUp_Forever.toc.
+- Aligned the version (3.0.5) across all TOCs and ADDON_VERSION in data/core.lua.
+
+# v3.0.3 - 2026-08-07
 
 ## Changes
 - TOC bump: Updated universal interface versions to 11509 (Classic Era), 20506 (TBC Anniversary), 50504 (MoP Classic), 120007 (Retail). Removed Cata (40402) and legacy Retail eras (110207, 120000, 120001).

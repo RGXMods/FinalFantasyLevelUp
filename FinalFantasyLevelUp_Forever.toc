@@ -1,4 +1,4 @@
-﻿## Interface: 120100,16001
+﻿## Interface: 16001
 ## Version: 3.0.5
 ## Title:  |cffffe568F|r|cffffffffinal|r |cffffe568F|r|cffffffffantasy|r |cffffe568L|r|cffffffffevel|r |cffffe568U|r|cffffffffp|r|cffffe568!|r
 ## Notes:  Play the iconic Final Fantasy level-up sound!  |n|r  |cffffe568/fflu -|r Open help  |n|r   |cffffe568By DonnieDice|r
