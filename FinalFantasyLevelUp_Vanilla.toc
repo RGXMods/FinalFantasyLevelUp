@@ -17,7 +17,7 @@
 ## X-Wago-ID: Xb6XE0Kp
 ## X-Embeds: 
 ## X-License: MIT
-## X-Localizations: enUS, deDE, frFR, esES, ruRU
+## X-Localizations: enUS, deDE, esES, esMX, frFR, itIT, koKR, ptBR, ptPT, ruRU, zhCN, zhTW
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 

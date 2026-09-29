@@ -51,9 +51,9 @@ local function ShowHelp()
     print(PREFIX .. " " .. (L["HELP_TEST"] or ""))
     print(PREFIX .. " " .. (L["HELP_ENABLE"] or ""))
     print(PREFIX .. " " .. (L["HELP_DISABLE"] or ""))
-    print(PREFIX .. " |cffffffff/fflu high|r - Use high quality sound")
-    print(PREFIX .. " |cffffffff/fflu med|r - Use medium quality sound")
-    print(PREFIX .. " |cffffffff/fflu low|r - Use low quality sound")
+    print(PREFIX .. " " .. (L["HELP_HIGH"] or ""))
+    print(PREFIX .. " " .. (L["HELP_MED"] or ""))
+    print(PREFIX .. " " .. (L["HELP_LOW"] or ""))
 end
 
 local function HandleSlashCommand(args)
@@ -115,6 +115,6 @@ end, "FFLU_PLAYER_LOGOUT")
 RGX:RegisterSlashCommand("fflu", function(msg)
     local ok, err = pcall(HandleSlashCommand, msg)
     if not ok then
-        print(PREFIX .. " |cffff0000FFLU Error:|r " .. tostring(err))
+        print(PREFIX .. " " .. (L["ERROR_PREFIX"] or "") .. " " .. tostring(err))
     end
 end, "FFLU_SLASH")

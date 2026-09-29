@@ -98,7 +98,7 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 
 ### <span style="color:#ffe568">🔥 Why Choose FFLU?</span>
 - **<img src="media/logo.png" width="16" height="16" alt="FFLU logo"> <span style="color:#8B1538">R</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#4ecdc4">Quality</span><span style="color:#3598db">:</span>** <span style="color:#e67e23">Built by the</span> <span style="color:#8B1538">R</span><span style="color:#7598b6">ealm</span><span style="color:#8B1538">G</span><span style="color:#8B1538">X</span> <span style="color:#e67e23">community with passion</span>
-- **<span style="color:#ffe568">🌍 Multi-Language:</span>** <span style="color:#e67e23">Supports English, Russian, German, French, and Spanish</span>
+- **<span style="color:#ffe568">🌍 Multi-Language:</span>** <span style="color:#e67e23">Supports all 12 WoW client languages: English, German, Spanish (EU & LatAm), French, Italian, Korean, Portuguese (BR & EU), Russian, Chinese (Simplified & Traditional)</span>
 - **<span style="color:#b96ad9">🛠️ Professional Standards:</span>** <span style="color:#e67e23">Modern WoW addon architecture</span>
 - **<span style="color:#4ecdc4">🎯 Cross-Compatible:</span>** <span style="color:#e67e23">Works across supported WoW versions</span>
 - **<span style="color:#ff6b6b">💬 Active Support:</span>** <span style="color:#e67e23">Join our Discord for instant help!</span>
@@ -139,7 +139,12 @@ _<span style="color:#e67e23">Every donation helps fund new features and improvem
 - **<span style="color:#8B1538">Русский</span>** (Russian) — _by ZamestoTV_
 - **<span style="color:#58be81">Deutsch</span>** (German)
 - **<span style="color:#4ecdc4">Français</span>** (French)
-- **<span style="color:#b96ad9">Español</span>** (Spanish)
+- **<span style="color:#b96ad9">Español</span>** (Spanish — esES/esMX shared)
+- **<span style="color:#e67e23">Italiano</span>** (Italian)
+- **<span style="color:#ff6b6b">한국어</span>** (Korean)
+- **<span style="color:#2dc26b">Português</span>** (Portuguese — ptBR/ptPT separate)
+- **<span style="color:#ffe568">简体中文</span>** (Simplified Chinese)
+- **<span style="color:#ffe568">繁體中文</span>** (Traditional Chinese)
 
 </td>
 <td width="50%" valign="top">
