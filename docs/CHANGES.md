@@ -1,4 +1,8 @@
-﻿# v3.0.5 - 2026-09-27
+﻿# Non-beta Candidate: [v3.0.6](changelogs/3.0.6.md)
+
+Retail 12.1.5 / Interface `120105`; client testing and publication pending.
+
+# v3.0.5 - 2026-09-27
 
 ## Changes
 - TOC set now covers every active WoW flavor: Retail 120100, Classic Era 11509, TBC 20506, Wrath 38002, Cataclysm 40402, Mists 50504, and WoW Forever 16001. The base TOC claims 120100,16001 so the Forever beta loads without the out-of-date flag.
