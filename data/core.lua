@@ -10,7 +10,7 @@ local RGX = assert(_G.RGXFramework, "FFLU: RGX-Framework not loaded")
 
 FFLU = FFLU or {}
 
-local ADDON_VERSION = "3.0.6"
+local ADDON_VERSION = "3.0.8"
 local ADDON_NAME = "FinalFantasyLevelUp"
 local PREFIX = "|Tinterface/addons/FinalFantasyLevelUp/media/icon:16:16|t - |cffffffff[|r|cffffe568FFLU|r|cffffffff]|r "
 local TITLE = "|Tinterface/addons/FinalFantasyLevelUp/media/icon:18:18|t [|cffffe568F|r|cffffffffinal|r |cffffe568F|r|cffffffffantasy|r |cffffe568L|r|cffffffffevel|r |cffffe568U|r|cffffffffp!|r]"
@@ -22,9 +22,9 @@ local Sound = RGX:GetSound()
 
 local handle = Sound:Register(ADDON_NAME, {
     sounds = {
-        high   = "Interface\\Addons\\FFLU\\sounds\\final_fantasy_high.ogg",
-        medium = "Interface\\Addons\\FFLU\\sounds\\final_fantasy_med.ogg",
-        low    = "Interface\\Addons\\FFLU\\sounds\\final_fantasy_low.ogg",
+        high   = "Interface\\Addons\\FinalFantasyLevelUp\\sounds\\final_fantasy_high.ogg",
+        medium = "Interface\\Addons\\FinalFantasyLevelUp\\sounds\\final_fantasy_med.ogg",
+        low    = "Interface\\Addons\\FinalFantasyLevelUp\\sounds\\final_fantasy_low.ogg",
     },
     defaultSoundId = 569593,
     savedVar       = "FFLUSettings",
