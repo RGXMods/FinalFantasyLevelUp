@@ -1,4 +1,11 @@
-﻿# Non-beta Candidate: [v3.0.6](changelogs/3.0.6.md)
+## v3.0.8 - 2026-11-05
+
+- Fixed WoW Forever: the base TOC now declares Interface 16001, which is what the Forever client reads, so the addon loads as compatible instead of out of date.
+- Removed the unused _Forever.toc file.
+- TOC files no longer start with a byte-order mark.
+- Fixed the sound file path so the level-up sound plays from the installed folder.
+
+# Non-beta Candidate: [v3.0.6](changelogs/3.0.6.md)
 
 Retail 12.1.5 / Interface `120105`; client testing and publication pending.
 
